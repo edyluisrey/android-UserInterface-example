@@ -1,0 +1,26 @@
+#Eclipse
+
+# Eclipse project files
+.project
+.metadata
+
+# generated files
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+
+project.properties
+local.properties
+.classpath
+.settings/
+.loadpath
+
+# built application files
+*.apk
+*.ap_
+
+
+
